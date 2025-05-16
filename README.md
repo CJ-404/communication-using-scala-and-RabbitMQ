@@ -7,10 +7,10 @@ This is primarily to the fact that RabbitMQ Java client still supports
 JDK 6 and doesn't have a lambda-friendly API.
 
 ### system req
-maven:  Apache Maven 3.5.4 (mvnw is provided within the repo - so no problem)
-jdk:    openjdk version "1.8.0_452" / openjdk-8-jdk (should work for newest ones)
-scala:  Scala code runner version 2.13.16 
-RabbitMQ: 4.1.0
+- maven:  Apache Maven 3.5.4 (mvnw is provided within the repo - so no problem)
+- jdk:    openjdk version "1.8.0_452" / openjdk-8-jdk (should work for newest ones)
+- scala:  Scala code runner version 2.13.16 
+- RabbitMQ: 4.1.0
 
 ## Compiling the Code
 
